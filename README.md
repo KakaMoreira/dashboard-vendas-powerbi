@@ -1,36 +1,38 @@
-# 📊 Dashboard de Vendas - Power BI
+Dashboard de Vendas | Power BI
+🎯 Objetivo
 
-## 📌 Objetivo
-Analisar desempenho de vendas, lucro e volume de pedidos.
+Desenvolver um dashboard interativo para análise de desempenho de vendas, permitindo identificar padrões, tendências e oportunidades de melhoria no negócio.
 
-## 📊 Indicadores
-- Receita Total
-- Ticket Médio
-- Total de Pedidos
-- Quantidade Vendida
-- Lucro Total
+📌 Principais Indicadores (KPIs)
+💰 Receita Total
+🧾 Ticket Médio
+📦 Total de Pedidos
+🔢 Quantidade Vendida
+📈 Lucro Total
+📊 Análises Desenvolvidas
+📌 Vendas por Categoria
+🏆 Top 5 Produtos mais vendidos
+💡 Lucro por Categoria
+🌎 Vendas por Região
+📅 Evolução de Vendas ao longo do tempo
+🛠️ Tecnologias Utilizadas
+Power BI (Visualização e Dashboard)
+SQL (Consulta e tratamento de dados)
+Modelagem de Dados (relacionamentos e métricas)
+💡 Principais Insights
+📍 A região West apresenta o maior volume de vendas
+💻 A categoria Tecnologia lidera em faturamento
+📈 Tendência de crescimento consistente ao longo dos anos
+💰 O lucro acompanha o aumento da receita, indicando boa margem operacional
+📷 Visual do Dashboard
 
-## 📈 Análises
-- Vendas por categoria
-- Top 5 produtos
-- Lucro por categoria
-- Vendas por região
-- Evolução ao longo do tempo
 
-## 🛠️ Ferramentas
-- Power BI
-- SQL
-- Modelagem de Dados
+🚀 Conclusão
 
-## 💡 Insights
-- Região West lidera vendas
-- Categoria Technology com maior faturamento
-- Crescimento consistente ao longo dos anos
+Este projeto permitiu aplicar conceitos fundamentais de análise de dados, visualização e modelagem, reforçando a importância de dashboards para suporte à tomada de decisão estratégica.
 
-## 📷 Dashboard
-[Projeto-PowerBI-Vendas.pdf](https://github.com/user-attachments/files/30561830/Projeto-PowerBI-Vendas.pdf)
 
-<img width="1295" height="747" alt="POWER BI 1" src="https://github.com/user-attachments/assets/6005e888-890d-49a6-9fb6-c3fc0148f366" />
+
 
 
 
